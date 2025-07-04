@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @data-professional-taiyabkhan
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning business intelligence
-- 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me mohdtaiyabkhan239@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once analyzed my grocery shopping habits and created a Power BI dashboard to optimize my weekly budget—cutting expenses by 15%!
+## 👋 Hi, I'm Mohammad Taiyab Khan
 
-<!---
-data-professional-taiyabkhan/data-professional-taiyabkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Data Enthusiast** passionate about leveraging data to solve real-world problems. Currently freelancing, I collaborate with diverse clients to deliver solutions in **Machine Learning**, **AI Automation**, and **Data Science**.
+
+- 🛠️ **Projects:** AttendanceFaceSync, UKSponsership
+- 🌱 **Always Learning:** Exploring the latest in data technology and how it evolves to address complex challenges.
+- 💼 **Minimalist & Professional:** I value clean, effective solutions and a streamlined approach.
+- 🤝 **Let's Connect:**  
+  [LinkedIn](https://www.linkedin.com/in/khanmohdtaiyab/) | [GoogleSite](https://sites.google.com/view/mohammadtaiyabkhan/)
+
+---
+
+*“Love to learn new things and how technology evolves to solve problems.”*
